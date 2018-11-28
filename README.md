@@ -1,0 +1,2 @@
+# smart
+sample project
